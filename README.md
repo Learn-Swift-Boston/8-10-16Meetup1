@@ -2,7 +2,7 @@ inspiration for this meetup comes from the host of the Swift Coders Podacast. He
 
 We talked about the Big Nerd Ranch book as being a great place to start learning Swift 2: https://www.bignerdranch.com/we-write/swift-programming/
 
-We talked about Ray Wenderlich being a great resource, full of tutorials, that is great for learning beginner and advanced topics
+We talked about Ray Wenderlich being a great resource, full of tutorials, that is great for learning beginner and advanced topics: https://www.raywenderlich.com/
 
 We talked about Standford having a great iOS video series: https://www.youtube.com/watch?v=GOEPVM5OzJk
 
