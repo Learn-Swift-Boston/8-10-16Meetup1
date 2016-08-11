@@ -1,4 +1,4 @@
-inspiration for this meetup comes from the host of the Swift Coders Podacast. Hestarted "Learn Swift LA" and helped in part in starting Learn Swift Boston: http://swiftcoders.podbean.com/
+inspiration for this meetup comes from the host of the Swift Coders Podacast. He started "Learn Swift LA" and helped in part in starting Learn Swift Boston: http://swiftcoders.podbean.com/
 
 We talked about the Big Nerd Ranch book as being a great place to start learning Swift 2: https://www.bignerdranch.com/we-write/swift-programming/
 
